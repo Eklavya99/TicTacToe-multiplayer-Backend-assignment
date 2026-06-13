@@ -4,7 +4,7 @@ A production-ready, real-time multiplayer Tic-Tac-Toe game built with a Nakama a
 
 ## 🎮 Live Game Link
 
-* **Vercel Hosted:** [https://lila-backend-assignment.vercel.app/](https://lila-backend-assignment.vercel.app/)
+* **Vercel Hosted(deprecated):** [https://lila-backend-assignment.vercel.app/](https://lila-backend-assignment.vercel.app/)
 
 ## 🏗️ Tech Stack & Infrastructure
 
@@ -74,6 +74,7 @@ docker compose up -d
 
 ```bash
 cd ttt-frontend
+npm install
 npm start
 ```
 
